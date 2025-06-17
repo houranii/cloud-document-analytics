@@ -38,16 +38,19 @@ This project is a **cloud-ready, Jupyter-based application** for collecting, sea
 
 ```bash
 git clone https://github.com/your-username/cloud-document-analytics.git
-cd cloud-document-analytics```
+cd cloud-document-analytics
+```
 
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 3. Run notebook
 ```bash 
-jupyter notebook cloud_document_analytics.ipynb```
+jupyter notebook cloud_document_analytics.ipynb
+```
 
 All intermediate files like arxiv_dataset.csv and downloaded PDFs will be created automatically.
 
